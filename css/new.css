@@ -1,0 +1,90 @@
+
+.navbar ul li:hover{
+
+ background-color:green;
+}
+.dropdown-menu:hover{
+	background-color:green;
+	
+}
+ footer {
+      background-color: #555;
+      color: white;
+      padding: 15px;
+      
+	}
+	footer>img{
+		opacity:.6;
+	}
+	footer>img:hover{
+		opacity: 1;
+	}
+	.jumbotron{
+		color:green;
+	}
+	.jumbotron>img{
+		opacity:.5;
+	}
+	.jumbotron>img:hover{
+		opacity: 1;
+	}
+	.hk>img{
+		opacity: .7;
+	}
+	.hk>img:hover{opacity: 1;
+	}
+	.my>img{
+		opacity:.7;
+	}
+	.my>img:hover{
+		opacity: 1;
+	}
+	.jk>img{
+		opacity:.7;
+	}
+	.jk>img:hover{
+		opacity:1;
+	}
+
+}
+
+
+.prog{
+	opacity:0.6;
+}
+.prog:hover{
+	opacity: 1;
+}
+.wer{
+	opacity:0.6;
+}
+.wer:hover{
+	opacity: 1;
+}
+.staff{
+	border:3px solid black;
+}
+.bsc:hover{
+	background-color:black;
+	
+}
+.elec{
+	opacity: 0.6;
+}
+.elec:hover{
+	opacity: 1;
+}
+.view{
+	background:green;
+}
+.info{
+	background:pink;
+}
+.cont{
+	background:orange;
+}
+.green{
+	background:green;
+}
+	
+	
